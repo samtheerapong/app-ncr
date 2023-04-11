@@ -3,7 +3,7 @@
 return [
     // 'bsDependencyEnabled' => false,
     'bsVersion' => '4',
-    'adminEmail' => 'northernfood.it@gmail.com',
-    'senderEmail' => 'northernfood.it@gmail.com',
+    'adminEmail' => 'Example@gmail.com',
+    'senderEmail' => 'Example@gmail.com',
     'senderName' => 'Example.com mailer',
 ];
